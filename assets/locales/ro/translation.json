@@ -1,0 +1,85 @@
+{
+  "navigation": {
+    "home" : "Acasa",
+    "about" : "Despre mine",
+    "work" : "Portofoliu",
+    "contact" : "Contact"
+  },
+  "skills" : {
+    "html": "Nivel avansat",
+    "css": "Nivel avansat",
+    "sass": "Nivel incepator",
+    "js": "Nivel mijlociu",
+    "react": "Nivel mijlociu",
+    "github": "Nivel mijlociu",
+    "git": "Nivel incepator",
+    "sql": "Nivel incepator",
+    "rlanguage": "Nivel incepator",
+    "python": "Nivel incepator",
+    "networking": "Nivel incepator"
+  },
+  "about": {
+    "programmer" : {
+      "title": "Eu ca Programator",
+      "description": "As putea scrie coduri cat este ziua de lunga, imi place sa invat despre noile tehnologii si cred ca punctul meu forte in acest domeniu este orietarea catre solutii."
+    },
+    "employee" : {
+      "title": "Eu ca Angajat",
+      "description": "Imi place sa colaborez cu colegii mei si ma adaptez usor in provocarile pe care le intampin. "
+    },
+    "hobbies" : {
+      "title": "Hobiurile mele",
+      "description": "Imi place sa inot si practic sporturile acvatice, dar in acelasi timp ador drumetiile montane si timpul petrecut in natura"
+    },
+    "future" : {
+      "title": "Viitorul meu",
+      "description": "Imi propun sa ma specializez in Web Development pentru ca este un domeniu in care pot sa ma dezvolt constant si sa ma provoc"
+    },
+    "resume-btn" : "CV-ul meu"
+  },
+  "hero-text": {
+    "first-word": "Salut! ",
+    "second-word": "Sunt ",
+    "third-word": "Adnan ",
+    "fourth-word": " si sunt ",
+    "fifth-word": "Frontend Developer"
+  },
+  "button-text": {
+    "about" : "Cine sunt?",
+    "works" : "Vezi lucrarile mele!",
+    "contact" : "Contacteaza-ma!",
+    "github-suggest": "👀 GitHub"
+  },
+  "mentor": {
+    "1": { 
+      "name" : "Adrian Moldovan",
+      "quotes": "Cu siguranta il recomand pe Adnan ca developer... gandire structurata, analitica si capacitate de concentrare pe termen lung"
+    },
+    "2": { 
+      "name" : "Razvan Timis",
+      "quotes": "Am fost mentorul lui Adnan o luna... Pot sa spun ca este o persoana perseverenta care a indeplinit toate sarcinile... Cu siguranta il recomand ca javascript developer"
+    },
+    "3": { 
+      "name" : "Stefan Radusi",
+      "quotes": "Am fost mentorul lui Adnan... Am descoperit ca Adnan are o deschidere larga pentru invatare de noi tehnologii dar si disciplina pentru a pune in practica..."
+    }
+  },
+  "contact-address" : "Chiajna, Ilfov",
+  "form" : {
+    "message-success": "Mesajul a fost trimis",
+    "send-email" : "Trimite-mi un mesaj",
+    "name" : "Nume",
+    "name-message-one" : "Sunt permise doare litere",
+    "name-message-two" : "Lungimea minima este de 2 litere",
+    "name-message-three" : "Lungimea maxima este de 30 litere",
+    "email" : "Email",
+    "email-message-one" : "Format is not right",
+    "email-message-two" : "Lungimea minima este de 5 litere",
+    "email-message-three" : "Lungimea maxima este de 40 litere",
+    "subject" : "Subiect",
+    "subject-message" : "Lungimea minima este de 2 litere",
+    "textarea" : "Mesaj",
+    "textarea-message" : "Lungimea minima este de 2 litere",
+    "btn-send": "Trimite mesajul"
+  }
+}

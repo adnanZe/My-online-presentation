@@ -1,0 +1,87 @@
+{
+  "navigation": {
+    "home" : "Home",
+    "about" : "About me",
+    "work" : "Portfolio",
+    "contact" : "Contact"
+  },
+
+  "skills" : {
+    "html": "Advanced level",
+    "css": "Advanced level",
+    "sass": "Beginner level",
+    "js": "Mid level",
+    "react": "Mid level",
+    "github": "Mid level",
+    "git": "Beginner level",
+    "sql": "Beginner level",
+    "rlanguage": "Beginner level",
+    "python": "Beginner level",
+    "networking": "Beginner level"
+  },
+  "about": {
+    "programmer" : {
+      "title": "As a Programmer",
+      "description": "I would write codes all day long, I like to learn more about new technologies and I think problem solving is my strength in this area."
+    },
+    "employee" : {
+      "title": "As an Employee",
+      "description": "I like to collaborate with my colleagues and I easily adapt to the challenges."
+    },
+    "hobbies" : {
+      "title": "My hobbies",
+      "description": "I like to swim and practice water sports, but at the same time I love hiking and spending time in nature."
+    },
+    "future" : {
+      "title": "My Perspective",
+      "description": "I want to specialize in Web Development because it is a field in which I can constantly develop and challenge myself."
+    },
+    "resume-btn" : "My Resume"
+  },
+  "hero-text":{
+    "first-word": "Hello! ",
+    "second-word": "I`m ",
+    "third-word": "Adnan",
+    "fourth-word": ", ",
+    "fifth-word": "Frontend Developer"
+  },
+  "button-text": {
+    "about" : "Who am I?",
+    "works" : "See my works!",
+    "contact" : "Contact me!",
+    "github-suggest": "👀 GitHub"
+  },
+  "mentor": {
+    "1": { 
+      "name" : "Adrian Moldovan",
+      "quotes": "I definitely recommend Adnan as a developer... structured thinking, analytical thinking and the ability to long-term focusing."
+    },
+    "2": { 
+      "name" : "Razvan Timis",
+      "quotes": "I was Adnan's mentor for a month...I can say that he is a persevering person who has done all the tasks... Of course I recommend him as a javascript developer"
+    },
+    "3": { 
+      "name" : "Stefan Radusi",
+      "quotes": "I was Adnan's mentor...  I discovered that Adnan has a very strong drive for learning new technologies as well as the discipline to implement them..."
+    }
+  },
+  "contact-address" : "Chiajna, Ilfov",
+  "form" : {
+    "message-success": "The message was sent.",
+    "send-email" : "Send me a message",
+    "name" : "Name",
+    "name-message-one" : "Only letters are allowed",
+    "name-message-two" : "Minimum required length is 2 letters",
+    "name-message-three" : "Maximum required length is 30 letters",
+    "email" : "Email",
+    "email-message-one" : "Format is not right",
+    "email-message-two" : "Minimum required length is 5 letters",
+    "email-message-three" : "Maximum required length is 40 letters",
+    "subject" : "Subject",
+    "subject-message" : "Minimum required length is 2 letters",
+    "textarea" : "Message",
+    "textarea-message" : "Minimum required length is 2 letters",
+    "btn-send": "Send Message"
+  }
+}
+

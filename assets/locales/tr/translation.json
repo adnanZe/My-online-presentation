@@ -1,0 +1,85 @@
+{
+  "navigation": {
+    "home" : "Ana sayfa",
+    "about" : "Hakkımda",
+    "work" : "Portföy",
+    "contact" : "İletİşİm"
+  },
+  "skills" : {
+    "html": "İleri seviye",
+    "css": "İleri seviye",
+    "sass": "Başlangıç ​​seviyesi",
+    "js": "Orta seviye",
+    "react": "Orta seviye",
+    "github": "Orta seviye",
+    "git": "Başlangıç ​​seviyesi",
+    "sql": "Başlangıç ​​seviyesi",
+    "rlanguage": "Başlangıç ​​seviyesi",
+    "python": "Başlangıç ​​seviyesi",
+    "networking": "Başlangıç ​​seviyesi"
+  },
+  "about": {
+    "programmer" : {
+      "title": "Bir Programcı gibi",
+      "description": "Gün boyu kod yazabiliyorum, yeni teknolojileri öğrenmeyi seviyorum ve bu alandaki en güçlü yanımın çözümlere odaklanmak olduğunu düşünüyorum."
+    },
+    "employee" : {
+      "title": "Çalışan gibi",
+      "description": "Meslektaşlarımla işbirliği yapmayı severim ve karşılaştığım zorluklara kolayca uyum sağlarım."
+    },
+    "hobbies" : {
+      "title": "Hobilerim",
+      "description": "Yüzmeyi ve su sporları yapmayı severim ama aynı zamanda yürüyüş yapmayı ve doğada vakit geçirmeyi de severim."
+    },
+    "future" : {
+      "title": "Benim Geleceğim",
+      "description": "Web Geliştirme konusunda uzmanlaşmayı öneriyorum çünkü bu sürekli geliştirebileceğim ve kendimi zorlayabileceğim bir alan."
+    },
+    "resume-btn" : "Benim CV"
+  },
+  "hero-text":{
+    "first-word": "Merhaba! ",
+    "second-word": "Ben ",
+    "third-word": "Adnan ",
+    "fourth-word": ", ",
+    "fifth-word": "Ön Uç Geliştirici"
+  },
+  "button-text": {
+    "about" : "Ben kimim?",
+    "works" : "İşlerimi gör!",
+    "contact" : "Benimle irtibata geçin!",
+    "github-suggest": "👀 GitHub"
+  },
+  "mentor": {
+    "1": { 
+      "name" : "Adrian Moldovan",
+      "quotes": "Adnan'ı geliştirici olarak kesinlikle tavsiye ediyorum... yapılandırılmış düşünme, analitik düşünme ve uzun vadeli odaklanma yeteneği."
+    },
+    "2": { 
+      "name" : "Razvan Timis",
+      "quotes": "Bir ay boyunca Adnan'a mentorluk yaptım...Bütün işleri yapmış azimli biri diyebilirim... Bir javascript geliştiricisi olarak tabii ki tavsiye ederim."
+    },
+    "3": { 
+      "name" : "Stefan Radusi",
+      "quotes": "Adnan'a mentoruluk yaptım...Adnan'ın yeni teknolojileri öğrenmek için çok güçlü bir dürtüye ve onları uygulayacak disipline sahip olduğunu keşfettim..."
+    }
+  },
+  "contact-address" : "Chiajna, Ilfov",
+  "form" : {
+    "message-success": "Mesaj gönderildi",
+    "send-email" : "Bana mesaj gönder",
+    "name" : "Adı",
+    "name-message-one" : "Sadece harflere izin verilir",
+    "name-message-two" : "Minimum gerekli uzunluk 2 harftir",
+    "name-message-three" : "Gerekli maksimum uzunluk 30 harftir",
+    "email" : "E-posta",
+    "email-message-one" : "Format is not right",
+    "email-message-two" : "Minimum gerekli uzunluk 5 harftir",
+    "email-message-three" : "Gerekli maksimum uzunluk 40 harftir",
+    "subject" : "Konu",
+    "subject-message" : "Minimum gerekli uzunluk 2 harftir",
+    "textarea" : "Mesaj",
+    "textarea-message" : "Minimum gerekli uzunluk 2 harftir",
+    "btn-send": "Mesaj gönder"
+  }
+}
