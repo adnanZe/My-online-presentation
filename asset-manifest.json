@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/My-online-presentation/static/css/main.f3f5814e.css",
-    "main.js": "/My-online-presentation/static/js/main.df4bbbe6.js",
+    "main.js": "/My-online-presentation/static/js/main.e5e38cc2.js",
     "static/media/mountain.png": "/My-online-presentation/static/media/mountain.98b35041cab04fc29fa8.png",
     "index.html": "/My-online-presentation/index.html",
     "static/media/getFetch.cjs": "/My-online-presentation/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.f3f5814e.css.map": "/My-online-presentation/static/css/main.f3f5814e.css.map",
-    "main.df4bbbe6.js.map": "/My-online-presentation/static/js/main.df4bbbe6.js.map"
+    "main.e5e38cc2.js.map": "/My-online-presentation/static/js/main.e5e38cc2.js.map"
   },
   "entrypoints": [
     "static/css/main.f3f5814e.css",
-    "static/js/main.df4bbbe6.js"
+    "static/js/main.e5e38cc2.js"
   ]
 }
